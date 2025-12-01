@@ -1,0 +1,2 @@
+Project URL : https://romdjyafobfhhahpokjf.supabase.co
+API KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJvbWRqeWFmb2JmaGhhaHBva2pmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQwMDM1MTEsImV4cCI6MjA3OTU3OTUxMX0.sC91H4re8yoaaFcRHVuJGYg3R_TNm4vdR86FoRSCpkg
