@@ -22,14 +22,7 @@ const nextConfig = {
     ],
     unoptimized: false, // Allow Next.js to optimize images
   },
-  // Increase body size limit for file uploads (500MB)
-  api: {
-    bodyParser: {
-      sizeLimit: '500mb',
-    },
-    responseLimit: '500mb',
-  },
-  // Increase request body size limit
+  // Increase request body size limit for App Router
   experimental: {
     serverActions: {
       bodySizeLimit: '500mb',
